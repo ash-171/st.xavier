@@ -70,3 +70,7 @@ input {
 #Achievements iframe {
     width: 800px;
 }
+#details img{
+    margin-left: 250px;
+    margin-right: -300px;
+}
